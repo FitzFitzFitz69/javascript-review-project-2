@@ -39,6 +39,6 @@ function deleteTodo(index) {
 
 }
 
-todoForm.addEventListen('submit' , addTodo);
+todoForm.addEventListen('submit', addTodo);
 
 renderTodos();
